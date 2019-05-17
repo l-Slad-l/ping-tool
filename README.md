@@ -1,6 +1,6 @@
 # ping tool
 
-REQUIRES: pings (pip install)
+REQUIRES: pings (install via pip)
 
 Use this tool to monitor your latency to a secified hostname.
 
